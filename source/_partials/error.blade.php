@@ -1,4 +1,8 @@
-{{-- Add styles related to sponsors.tenancyforlaravel.com to the prod, purged CSS --}}
+{{-- 
+    Error message component
+    Usage: @include('_partials.error', ['error' => 'Your error message here'])
+    Add styles related to sponsors.tenancyforlaravel.com to the prod, purged CSS 
+--}}
 <div class="rounded-md bg-red-50 p-4">
     <div class="flex">
         <div class="flex-shrink-0">
